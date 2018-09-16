@@ -1,9 +1,0 @@
-#ifndef DISKOPERATE_H_INCLUDED
-#define DISKOPERATE_H_INCLUDED
-
-//���̲����ӿ�
-#define SYSTEM_SIZE		1024*1024*1024   //ϵͳ��С
-#define BLOCK_SIZE		1024 //�̿��С
-#define BLOCK_COUNT		SYSTEM_SIZE/BLOCK_SIZE //ϵͳ�̿���Ŀ 1M
-
-#endif // DISKOPERATE_H_INCLUDED
